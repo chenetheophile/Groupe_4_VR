@@ -1,6 +1,4 @@
-# Groupe_4_VR
-
-## __Goupe Composé de Chêne Théophile et Cronier Clément.__
+# Mini-jeu VR
 
 Le projet possède deux facettes. Les deux facettes sont accessibles librement depuis le menu. Il suffit de cliquer sur la facette souhaitée, et une téléportation s'effectuera.
 
@@ -32,7 +30,7 @@ La complétion d'un labyrinthe vous rapporte un point. Lorsque vous touchez une 
 
 ## __Disclaimer:__
 
-Les fonctionnalités ont été testées sans casque VR. Ainsi, la balle, le pinceau, la palette, etc... ont été testé en simulation. Le lancer de balle n'étant pas pratique avec la simulation, nous ne savons pas si elle fonctionne comme l'on souhaite. Nous avons réussi à transmettre une vitesse en simulation et supposons qu'avec de vraies manettes, il n'y aura pas de soucis.
+Les fonctionnalités ont été testées sans casque VR. Ainsi, la balle, le pinceau, la palette, etc... ont été testé en simulation. Le lancer de balle n'étant pas pratique avec la simulation, je ne sais pas si elle fonctionne comme souhaité. J'ai réussi à transmettre une vitesse en simulation et je suppose qu'avec de vraies manettes, il n'y aura pas de soucis.
 
 De même, pour les pinceaux. Nous avons constaté leurs fonctionnements en les déplaçant dans la scène pendant la simulation. Il peigne sur les toiles sans soucis. Nous en profitons pour signifier que nous avons réduit la distance minimale requise pour peindre dans les deux modes de jeu. __Il est désormais de 0.15 afin de simuler un vrai pinceau.__ (Le bout du pinceau doit entrer en contact avec la toile pour peindre.)
 
